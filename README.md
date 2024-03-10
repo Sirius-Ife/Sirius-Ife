@@ -11,7 +11,6 @@ I am a Data-Oriented Business Analyst passionate about leveraging data to drive 
 - **Data Manipulation:** Data cleaning, Data preprocessing
 
 ## Projects
-Here are some highlights of my projects:
 - [my_projects](https://sirius-ife.github.io/my_projects/) : professional portfolio.
 
 ## Contact Me
