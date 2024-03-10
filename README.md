@@ -15,7 +15,7 @@ Here are some highlights of my projects:
 - [my_projects](https://github.com/Sirius-Ife/my_projects): professional portfolio.
 
 ## Contact Me
-Feel free to reach out to me via [LinkedIn]([linkedin_profile_link](https://www.linkedin.com/in/ifeoluwa-abe-02858a244/)) for collaboration opportunities or inquiries.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ifeoluwa-abe-02858a244/) for collaboration opportunities or inquiries.
 
 Let's connect and explore the world of data together!
 
