@@ -12,7 +12,7 @@ I am a Data-Oriented Business Analyst passionate about leveraging data to drive 
 
 ## Projects
 Here are some highlights of my projects:
-- [my_projects](https://github.com/Sirius-Ife/my_projects): professional portfolio.
+- [my_projects](https://github.com/Sirius-Ife/my_projects) : professional portfolio.
 
 ## Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ifeoluwa-abe-02858a244/) for collaboration opportunities or inquiries.
