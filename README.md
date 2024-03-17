@@ -1,4 +1,4 @@
-# What's Good.
+# hello 👋
 
 ## About Me
 I am a Data-Oriented Business Analyst passionate about leveraging data to drive actionable insights and strategic decision-making. With expertise in R programming, SQL, Tableau, and spreadsheet analysis, I excel in transforming raw data into valuable business solutions.
