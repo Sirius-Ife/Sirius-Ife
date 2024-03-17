@@ -7,7 +7,7 @@ I am a Data-Oriented Business Analyst passionate about leveraging data to drive 
 - **Data Analysis:** Spreadsheet ( Google Sheets)
 - **Statistical Analysis:** Hypothesis testing, Regression analysis
 - **Data Manipulation:** Data cleaning, Data preprocessing
-- **more
+- **More**
 
 ## Projects
 - [my_projects](https://sirius-ife.github.io/my_projects/) : professional portfolio.
