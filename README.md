@@ -3,7 +3,7 @@ I am a Data Scientist passionate about leveraging data to drive actionable insig
 
 ## Skills
 - **Programming Languages:** R, SQL
-- **Data Visualization:** Tableau, Power BI
+- **Data Visualization:** Tableau
 - **Data Analysis:** Spreadsheet (Google Sheets)
 - **Statistical Analysis:** Hypothesis testing, Regression analysis
 - **Data Manipulation:** Data cleaning, Data preprocessing
