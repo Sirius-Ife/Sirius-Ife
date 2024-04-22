@@ -9,7 +9,7 @@ I am a Data Analyst passionate about leveraging data to drive actionable insight
 - **Data Manipulation:** Data cleaning, Data preprocessing
 
 ## Projects
-- [My Projects](https://sirius-ife.github.io/my_projects/): Check out my professional portfolio.
+- [My Projects](https://sirius-ife.github.io/my_projects/) : Check out my professional portfolio.
 
 ## Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ifeoluwa-abe-02858a244/) for collaboration opportunities or inquiries.
