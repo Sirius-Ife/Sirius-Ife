@@ -4,7 +4,7 @@ I am a Data Analyst passionate about leveraging data to drive actionable insight
 ## Skills
 - **Programming Languages:** R, SQL
 - **Data Visualization:** Tableau
-- **Data Analysis:** Spreadsheet (Google Sheets)
+- **Data Analysis:** Spreadsheet (Google Sheets), Alteryx
 - **Statistical Analysis:** Hypothesis testing, Regression analysis
 - **Data Manipulation:** Data cleaning, Data preprocessing
 
