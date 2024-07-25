@@ -1,7 +1,7 @@
 ## About Me
 I am a Data Analyst passionate about leveraging data to drive actionable insights and strategic decision-making. With expertise in R programming, SQL, Tableau, and spreadsheet analysis, I excel in transforming raw data into valuable business solutions.
 
-## Skills
+## Tools
 - **Programming Languages:** R, SQL
 - **Data Visualization:** Tableau
 - **Data Analysis:** Google Workspace, Alteryx
