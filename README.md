@@ -2,9 +2,8 @@
 I am a Pricing Analyst passionate about leveraging data to drive actionable insights and strategic decision-making. I excel in transforming raw data into valuable business solutions.
 
 ## Tools
-- **Programming Languages:** R, SQL and Python
+- **Programming Languages:** R, SQL 
 - **Data Analysis:** Google Workspace
-- **Pricing Workbench:**  OR-Tools
 
 ## Projects
 - [My Projects](https://sirius-ife.github.io/my_projects/) : Check out my professional portfolio.
