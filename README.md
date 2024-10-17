@@ -2,7 +2,7 @@
 I am a Pricing Analyst passionate about leveraging data to drive actionable insights and strategic decision-making. With expertise in R programming, SQL, Tableau, and spreadsheet analysis, I excel in transforming raw data into valuable business solutions.
 
 ## Tools
-- **Programming Languages:** R, SQL, C++
+- **Programming Languages:** R, SQL and Python
 - **Data Analysis:** Google Workspace
 - **Pricing Workbench:**  OR-Tools
 
