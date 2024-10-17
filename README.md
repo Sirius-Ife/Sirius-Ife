@@ -5,7 +5,7 @@ I am a Pricing Analyst passionate about leveraging data to drive actionable insi
 - **Programming Languages:** R, SQL
 - **Data Visualization:** Tableau
 - **Data Analysis:** Google Workspace, Alteryx
-- **Pricing Analysis:**  PROS Pricing
+- **Pricing Workbench:**  PROS Pricing
 
 ## Projects
 - [My Projects](https://sirius-ife.github.io/my_projects/) : Check out my professional portfolio.
