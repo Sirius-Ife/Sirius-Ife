@@ -3,7 +3,7 @@ I am a Pricing Analyst passionate about leveraging data to drive actionable insi
 
 ## Tools
 - **Programming Languages:** R, SQL, C++
-- **Data Analysis:** Google Workspace, Alteryx
+- **Data Analysis:** Google Workspace
 - **Pricing Workbench:**  OR-Tools
 
 ## Projects
