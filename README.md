@@ -5,9 +5,6 @@ I am a Pricing Analyst passionate about leveraging data to drive actionable insi
 - **Programming Languages:** R, SQL 
 - **Data Analysis:** Google Workspace
 
-## Projects
-- [My Projects](https://sirius-ife.github.io/my_projects/) : Check out my professional portfolio.
-
 ## Contact Me
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ifeoluwa-abe-02858a244/) for collaboration opportunities or inquiries.
 
