@@ -4,7 +4,6 @@ I am a Pricing Analyst passionate about leveraging data to drive actionable insi
 ## Tools
 - **Programming Languages:** R, SQL 
 - **Data Analysis:** Google Workspace
-
-Let's connect and explore the world of data together!
+- **Visualization Tool:** Power BI
 
 
