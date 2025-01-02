@@ -1,8 +1,2 @@
 ## About Me
-I am a pricing analyst passionate about leveraging data to drive actionable insights and strategic decision-making. 
-
-## Tools
-- **Programming Languages:** R, SQL 
-- **Data Analysis:** Google Workspace, Power BI
-
-
+I am Ife, My expertise lies in problem-solving, taking initiative, and continuous learning. I thrive in dynamic environments and I’m dedicated to leveraging data to drive informed decision-making and optimize business processes. #DataScience
